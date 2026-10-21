@@ -1,0 +1,55 @@
+# Pele & Rotina
+
+> Beleza e cuidado pessoal para a sua rotina. Preços lidos nos anúncios do Mercado Livre, com a data de leitura.
+
+Contém links de afiliado Mercado Livre.
+
+## Categorias
+- [Suplementos](https://marcusviniciusps08-hue.github.io/pele-rotina/categoria/suplementos/)
+- [Cabelos](https://marcusviniciusps08-hue.github.io/pele-rotina/categoria/cabelos/)
+- [Cuidados com a pele](https://marcusviniciusps08-hue.github.io/pele-rotina/categoria/cuidados-com-a-pele/)
+- [Escovas elétricas de cabelo](https://marcusviniciusps08-hue.github.io/pele-rotina/categoria/escovas-eletricas-de-cabelo/)
+- [Perfumes](https://marcusviniciusps08-hue.github.io/pele-rotina/categoria/perfumes/)
+- [Unhas](https://marcusviniciusps08-hue.github.io/pele-rotina/categoria/unhas/)
+- [Depilação e barbear](https://marcusviniciusps08-hue.github.io/pele-rotina/categoria/depilacao-e-barbear/)
+- [Maquiagem](https://marcusviniciusps08-hue.github.io/pele-rotina/categoria/maquiagem/)
+- [Barbeadores e aparadores](https://marcusviniciusps08-hue.github.io/pele-rotina/categoria/barbeadores-e-aparadores/)
+- [Secadores de cabelo](https://marcusviniciusps08-hue.github.io/pele-rotina/categoria/secadores-de-cabelo/)
+- [Banho, corpo e bem-estar](https://marcusviniciusps08-hue.github.io/pele-rotina/categoria/banho-corpo-e-bem-estar/)
+- [Outros produtos](https://marcusviniciusps08-hue.github.io/pele-rotina/categoria/outros-produtos/)
+
+## Guias de compra
+- [Como escolher barbeador: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/pele-rotina/guias/como-escolher-barbeador/)
+- [Barbeadores e aparadores até R$ 90: opções e preços](https://marcusviniciusps08-hue.github.io/pele-rotina/guias/barbeadores-e-aparadores-ate-90/)
+- [Como escolher escova elétrica: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/pele-rotina/guias/como-escolher-escova-eletrica/)
+- [Escovas elétricas de cabelo até R$ 110: opções e preços](https://marcusviniciusps08-hue.github.io/pele-rotina/guias/escovas-eletricas-de-cabelo-ate-110/)
+- [Como escolher perfume: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/pele-rotina/guias/como-escolher-perfume/)
+- [Perfumes até R$ 100: opções e preços](https://marcusviniciusps08-hue.github.io/pele-rotina/guias/perfumes-ate-100/)
+- [Como escolher secador de cabelo: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/pele-rotina/guias/como-escolher-secador-de-cabelo/)
+- [Secadores de cabelo até R$ 250: opções e preços](https://marcusviniciusps08-hue.github.io/pele-rotina/guias/secadores-de-cabelo-ate-250/)
+- [Como escolher suplemento: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/pele-rotina/guias/como-escolher-suplemento/)
+- [Suplementos até R$ 80: opções e preços](https://marcusviniciusps08-hue.github.io/pele-rotina/guias/suplementos-ate-80/)
+- [Como escolher balança corporal: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/pele-rotina/guias/como-escolher-balanca-corporal/)
+- [Balanças corporais até R$ 40: opções e preços](https://marcusviniciusps08-hue.github.io/pele-rotina/guias/balancas-corporais-ate-40/)
+
+## Comparativos
+- [Maquina Maquininha Dragao Acabamento Cortar Cabelo Aparador Barba vs Aparador de Pelos Kemei KM-6511 Nariz Orelhas Sem: comparativo](https://marcusviniciusps08-hue.github.io/pele-rotina/comparativos/maquina-maquininha-dragao-acabamento-cortar-cabelo-aparador-barba-vs-aparador-de-pelos-kem/)
+- [Maquina Maquininha Dragao Acabamento Com visor Display Cortar vs Barbeador Aparador Cortador Kemei 3 em 1 KM-6558: comparativo](https://marcusviniciusps08-hue.github.io/pele-rotina/comparativos/maquina-maquininha-dragao-acabamento-com-visor-display-cortar-vs-barbeador-aparador-cortad/)
+- [Máquina De Acabamento Cabelo Barba Sem Fio Kemei vs Barbeador Elétrico Acabamento Shaver Kemei 2024 Cor Preto: comparativo](https://marcusviniciusps08-hue.github.io/pele-rotina/comparativos/maquina-de-acabamento-cabelo-barba-sem-fio-kemei-vs-barbeador-eletrico-acabamento-shaver-k/)
+- [Escova Modeladora Britânia 2 em 1 Branca Antiaderente vs Escova Secadora Britânia Bivolt 1300w Soft Bec07r Original: comparativo](https://marcusviniciusps08-hue.github.io/pele-rotina/comparativos/escova-modeladora-britania-2-em-1-branca-antiaderente-vs-escova-secadora-britania-bivolt-1/)
+- [Escova Philco Soft Brush 1200w Cor Preto vs Escova Secadora Britânia Nanocerâmica 1300W Infrared BES24P Bivolt: comparativo](https://marcusviniciusps08-hue.github.io/pele-rotina/comparativos/escova-philco-soft-brush-1200w-cor-preto-vs-escova-secadora-britania-nanoceramica-1300w-in/)
+- [Escova Secadora de Cabelos Soft Beauty Cherry Philco vs Britânia Escova Secadora Bec02pr 4 Em 1 1300w: comparativo](https://marcusviniciusps08-hue.github.io/pele-rotina/comparativos/escova-secadora-de-cabelos-soft-beauty-cherry-philco-vs-britania-escova-secadora-bec02pr-4/)
+- [Colônia Cebolinha Turma Da Mônica 25ml vs BODY SPLASH MASCULINO BARBARIUS 200ML - PRIMACIAL PERFUME: comparativo](https://marcusviniciusps08-hue.github.io/pele-rotina/comparativos/colonia-cebolinha-turma-da-monica-25ml-vs-body-splash-masculino-barbarius-200ml-primacial-/)
+- [Body Splash Masculino Vibration 200ml - Primacial Perfume vs Body Splash My Sweet Delight Barbour's Beauty 200ml: comparativo](https://marcusviniciusps08-hue.github.io/pele-rotina/comparativos/body-splash-masculino-vibration-200ml-primacial-perfume-vs-body-splash-my-sweet-delight-ba/)
+- [Kit 3 Perfumes Cebolinha Jequiti 25ml Infantil Turma vs Attracione Men perfume Masculino Com Feromônios Ativados 25: comparativo](https://marcusviniciusps08-hue.github.io/pele-rotina/comparativos/kit-3-perfumes-cebolinha-jequiti-25ml-infantil-turma-vs-attracione-men-perfume-masculino-c/)
+- [Secador de cabelo dobrável Mondial Max Travel 1200w vs Secador De Cabelos Motor Ac Profissional Easy 1700w: comparativo](https://marcusviniciusps08-hue.github.io/pele-rotina/comparativos/secador-de-cabelo-dobravel-mondial-max-travel-1200w-vs-secador-de-cabelos-motor-ac-profiss/)
+- [Secador de Cabelos Britânia 3 Temperaturas 2100W BSC2250 vs Secador de cabelo TaiffClássica Style azul: comparativo](https://marcusviniciusps08-hue.github.io/pele-rotina/comparativos/secador-de-cabelos-britania-3-temperaturas-2100w-bsc2250-vs-secador-de-cabelo-taiffclassic/)
+- [Secador De Cabelo 2000 Watts - Style Pro vs Secador De Cabelos Taiff Style Pro 2000w Prata: comparativo](https://marcusviniciusps08-hue.github.io/pele-rotina/comparativos/secador-de-cabelo-2000-watts-style-pro-vs-secador-de-cabelos-taiff-style-pro-2000w-prata/)
+- [Creatina 100g Creatina Monohidratada Max Titanium Sem Sabor vs Creatina Integralmedica 100% Pura 60 Cápsulas - Aumento: comparativo](https://marcusviniciusps08-hue.github.io/pele-rotina/comparativos/creatina-100g-creatina-monohidratada-max-titanium-sem-sabor-vs-creatina-integralmedica-100/)
+- [Creatina Pura em Pó Monoidratada Lavitan Cimed 300g vs Creatina Dux Nutrition em pó Sem sabor x: comparativo](https://marcusviniciusps08-hue.github.io/pele-rotina/comparativos/creatina-pura-em-po-monoidratada-lavitan-cimed-300g-vs-creatina-dux-nutrition-em-po-sem-sa/)
+- [Creatina Soldiers Nutrition em pó Sem sabor x vs Creatina Dark Lab Premium Pure em pó Sem: comparativo](https://marcusviniciusps08-hue.github.io/pele-rotina/comparativos/creatina-soldiers-nutrition-em-po-sem-sabor-x-vs-creatina-dark-lab-premium-pure-em-po-sem/)
+- [Balança Digital Bioimpedância Profissional smart imc 180kg Bluetooth vs Balança Digital Bioimpedância Bluetooth Corporal Aparelho Alta Capacidade: comparativo](https://marcusviniciusps08-hue.github.io/pele-rotina/comparativos/balanca-digital-bioimpedancia-profissional-smart-imc-180kg-bluetooth-vs-balanca-digital-bi/)
+
+## Sobre
+- [Sobre e afiliação](https://marcusviniciusps08-hue.github.io/pele-rotina/sobre/)
+- [Perguntas frequentes](https://marcusviniciusps08-hue.github.io/pele-rotina/faq/)
