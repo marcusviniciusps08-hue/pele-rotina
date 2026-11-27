@@ -11,9 +11,9 @@ Contém links de afiliado Mercado Livre.
 - [Escovas elétricas de cabelo](https://marcusviniciusps08-hue.github.io/pele-rotina/categoria/escovas-eletricas-de-cabelo/)
 - [Perfumes](https://marcusviniciusps08-hue.github.io/pele-rotina/categoria/perfumes/)
 - [Unhas](https://marcusviniciusps08-hue.github.io/pele-rotina/categoria/unhas/)
-- [Secadores de cabelo](https://marcusviniciusps08-hue.github.io/pele-rotina/categoria/secadores-de-cabelo/)
 - [Depilação e barbear](https://marcusviniciusps08-hue.github.io/pele-rotina/categoria/depilacao-e-barbear/)
 - [Maquiagem](https://marcusviniciusps08-hue.github.io/pele-rotina/categoria/maquiagem/)
+- [Secadores de cabelo](https://marcusviniciusps08-hue.github.io/pele-rotina/categoria/secadores-de-cabelo/)
 - [Barbeadores e aparadores](https://marcusviniciusps08-hue.github.io/pele-rotina/categoria/barbeadores-e-aparadores/)
 - [Outros produtos](https://marcusviniciusps08-hue.github.io/pele-rotina/categoria/outros-produtos/)
 
@@ -25,7 +25,7 @@ Contém links de afiliado Mercado Livre.
 - [Como escolher perfume: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/pele-rotina/guias/como-escolher-perfume/)
 - [Perfumes até R$ 100: opções e preços](https://marcusviniciusps08-hue.github.io/pele-rotina/guias/perfumes-ate-100/)
 - [Como escolher secador de cabelo: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/pele-rotina/guias/como-escolher-secador-de-cabelo/)
-- [Secadores de cabelo até R$ 300: opções e preços](https://marcusviniciusps08-hue.github.io/pele-rotina/guias/secadores-de-cabelo-ate-300/)
+- [Secadores de cabelo até R$ 250: opções e preços](https://marcusviniciusps08-hue.github.io/pele-rotina/guias/secadores-de-cabelo-ate-250/)
 - [Como escolher suplemento: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/pele-rotina/guias/como-escolher-suplemento/)
 - [Suplementos até R$ 80: opções e preços](https://marcusviniciusps08-hue.github.io/pele-rotina/guias/suplementos-ate-80/)
 
